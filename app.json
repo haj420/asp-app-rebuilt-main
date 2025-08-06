@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "ASP",
+    "slug": "ASP",
+    "version": "8.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.autoformsandsupplies.asp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/android-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.autoformsandsupplies.asp"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/45572ecb-125d-40bf-be7b-caf0e4dac577"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "45572ecb-125d-40bf-be7b-caf0e4dac577"
+      }
+    }
+  }
+}
