@@ -3,7 +3,6 @@ import { Alert, ImageBackground, Button, View, Text, StyleSheet, TouchableOpacit
 import * as WebBrowser from 'expo-web-browser';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import MapView from 'react-native-maps';
 import { WebView } from 'react-native-webview';
 // import Pdf from 'react-native-pdf';
 

@@ -2,7 +2,7 @@
   "expo": {
     "name": "ASP",
     "slug": "ASP",
-    "version": "8.0.0",
+    "version": "8.0.6",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -35,6 +35,21 @@
       "eas": {
         "projectId": "45572ecb-125d-40bf-be7b-caf0e4dac577"
       }
-    }
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "compileSdkVersion": 35,
+            "targetSdkVersion": 35,
+            "buildToolsVersion": "35.0.0"
+          },
+          "ios": {
+            "deploymentTarget": "15.1"
+          }
+        }
+      ]
+    ]
   }
 }
