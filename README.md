@@ -22,9 +22,10 @@ This is a React Native app for Automotive Service Products.
 
 ## Screenshots
 
-* [Insert screenshot of home screen]
-* [Insert screenshot of product screen]
-* [Insert screenshot of contact us screen]
+<img height="200" alt="Simulator Screen Shot - iPhone 14 Pro Max - 2025-08-06 at 09 09 25" src="https://github.com/user-attachments/assets/664a5092-a9c0-49c6-89a2-da95d040d0ec" />
+<img height="200" alt="Simulator Screen Shot - iPhone 14 Pro Max - 2025-08-06 at 09 09 31" src="https://github.com/user-attachments/assets/c1c6c133-e7f5-4674-97bb-f04d73ad0705" />
+<img height="200" alt="Simulator Screen Shot - iPhone 14 Pro Max - 2025-08-06 at 09 09 40" src="https://github.com/user-attachments/assets/690c19d8-9d4c-42ec-aefe-24066179d76c" />
+
 
 ## Contributing
 
