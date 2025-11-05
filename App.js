@@ -62,7 +62,7 @@ console.log('brands screen');
  			   </View>
  			   <View style={{width: '50%', height:100, justifyContent:'center'}}>
  			   <TouchableOpacity style={styles.brandsBtn}
- 				 onPress={() =>{ Linking.openURL("https://www.autoserviceproducts.com/wp-content/uploads/ViZi-Brand-Sheet-210601-flattened.pdf")}}>
+ 				 onPress={() =>{ Linking.openURL("https://vizisupplies.com/")}}>
  				   <Image source={require('./assets/Vizilogo.png')} style={styles.brandsScreenButton}/>
  			   </TouchableOpacity>
  			   </View>
@@ -76,7 +76,7 @@ console.log('brands screen');
  			   </View>
  			   <View style={{width: '50%', height:100, justifyContent:'center'}}>
  			   <TouchableOpacity style={styles.brandsBtn}
- 				 onPress={() =>{ Linking.openURL("https://www.autoserviceproducts.com/wp-content/uploads/File-Right-Brand-Sheet-210601-flattened.pdf")}}>
+ 				 onPress={() =>{ Linking.openURL("https://filerightsupplies.com/")}}>
  				   <Image source={require('./assets/fileRight.png')} style={styles.brandsScreenButton}/>
  			   </TouchableOpacity>
  			   </View>
